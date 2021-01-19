@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 475cbf627356f6248b05b55f5b39505d, type: 3}
+  m_Name: Apple
+  m_EditorClassIdentifier: Assembly-CSharp:Petwork.Network:FoodType
+  foodName: Apple
+  foodSprite: {fileID: -4732931813312725073, guid: 2785a1960123db84db9c439319df6a2d,
+    type: 3}
+  feedAmount: 0.25
+  foodHealthiness: 0.075
+  foodDescription: {fileID: 4900000, guid: e9087401b64b1c24ca2057be4ec6078d, type: 3}
+  feedHappiness: -0.05
+  foodPrice: 2
+  foodEnergy: 0.1
+  myType: 0

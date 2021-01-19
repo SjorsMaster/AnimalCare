@@ -1,0 +1,6 @@
+Name: {name}
+Type: {type}
+Feeds: {feeds}
+Healthiness: {health}
+Energy: {energy}
+Happiness: {happiness}
